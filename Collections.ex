@@ -1,20 +1,20 @@
 ## List
 
-list = [1,2,3]
-result = list ++ [4,5,6]
+# list = [1,2,3]
+# result = list ++ [4,5,6]
 
 # with iex result -> [1,2,3,4,5,6]
 
 
 # Is possible concat another values in this collection
 # just like:
-list = [1,2,3] ++ ['hey'] ++ [:pie]
+# list = [1,2,3] ++ ['hey'] ++ [:pie]
 
 # iex result: [1, 2, 3, 'hey', :pie]
 
 
 # Subtraction of lists
-list = [1, 2, 3, 'hey', :pie] -- [:pie]
+# list = [1, 2, 3, 'hey', :pie] -- [:pie]
 
 # iex result: [1, 2, 3, 'hey']
 

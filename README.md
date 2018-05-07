@@ -10,7 +10,7 @@ and thanks for your attention =]
 My Goals:
 
 - Basics ✓
-- Collections
+- Collections ✓
 - Enum
 - Pattern Matching
 - Control Structures
