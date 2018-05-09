@@ -11,7 +11,7 @@ My Goals:
 
 - Basics ✓
 - Collections ✓
-- Enum
+- Enum ✓
 - Pattern Matching
 - Control Structures
 - Functions
