@@ -12,7 +12,7 @@ My Goals:
 - Basics ✓
 - Collections ✓
 - Enum ✓
-- Pattern Matching
+- Pattern Matching ✓
 - Control Structures
 - Functions
 - Pipe Operator
