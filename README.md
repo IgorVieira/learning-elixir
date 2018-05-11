@@ -13,7 +13,7 @@ My Goals:
 - Collections ✓
 - Enum ✓
 - Pattern Matching ✓
-- Control Structures
+- Control Structures ✓
 - Functions
 - Pipe Operator
 - Modules
