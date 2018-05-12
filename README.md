@@ -14,7 +14,7 @@ My Goals:
 - Enum ✓
 - Pattern Matching ✓
 - Control Structures ✓
-- Functions
+- Functions ✓
 - Pipe Operator
 - Modules
 - Mix
